@@ -1,4 +1,4 @@
-module github.com/kahing/goofys
+module github.com/parlaylabs/goofys
 
 go 1.13
 
